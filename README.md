@@ -16,7 +16,7 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
 
 
-## 2. Qué constuí
+## 2. Qué construí
 En este proyecto me enfoque en construir la clonación de la interfaz de Google.
 Contiene las siguientes secciones:
 
