@@ -5,8 +5,8 @@
 
 1. Intro 😎
 2. Que construí 🤞
-3. Objetivo del proyecto
-4. Link a demo
+3. Objetivo del proyecto ❤
+4. Link a demo 👍
 
 ****
 
